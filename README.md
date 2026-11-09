@@ -97,4 +97,4 @@ Packages used: `dplyr`, `tidyr`, `lubridate`, `ggplot2`, `scales`, `readxl`, `wr
 
 ## Author
 
-Giovanni Ferrante, MSc student in quantitative finance.
+Giovanni Ferrante, MSc in Banking and Finance
